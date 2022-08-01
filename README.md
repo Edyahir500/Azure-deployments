@@ -1,2 +1,3 @@
 # Azure-deployments
-Describe the deployments of the Azure cloud.
+In this repository describe the deployments of the Azure cloud.
+
